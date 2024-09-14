@@ -1,1 +1,3 @@
-v1
+git fetch origin
+git rebase origin/main
+git push origin main
